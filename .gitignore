@@ -1,0 +1,10 @@
+TimeLogger.Web.csproj.user
+bin
+obj
+.idea
+node_modules
+jspm_packages
+npm-debug.log
+debug.log
+_test-output
+_temp
